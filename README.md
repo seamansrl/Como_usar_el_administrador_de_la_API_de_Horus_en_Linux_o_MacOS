@@ -5,14 +5,14 @@
     
     Podes hacerlo tanto haciendo click en el link o desde terminal (Paso 2) usando wget:
     
-    sudo wget https://www.proyectohorus.com.ar/descargas/windows/portable.zip
+        sudo wget https://www.proyectohorus.com.ar/descargas/windows/portable.zip
 
 - Paso 2: Entra en el terminal (Solo usuarios Linux)
 
 - Paso 3: Actualiza tu Linux (Solo usuarios Linux)
 
-    sudo apt-get update
-    sudo apt-get upgrade
+        sudo apt-get update
+        sudo apt-get upgrade
     
 - Paso 4 Descomprime el contenido en la ubicación que quieras.
     
