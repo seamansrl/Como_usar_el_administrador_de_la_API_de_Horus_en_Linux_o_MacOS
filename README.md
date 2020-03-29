@@ -48,7 +48,8 @@
         yum install mono-devel
 
     En MacOS instalando:
-      https://www.mono-project.com/download/stable/#download-mac
+    
+        https://www.mono-project.com/download/stable/#download-mac
 
 - Paso 6: Ejecuta la interfaz de Horus
     
