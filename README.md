@@ -1,7 +1,7 @@
 # Pasos a seguir para usar el administrador de Proyecto Horus en Linux o MacOS
 
 - Paso 1: Descargar el software portable de:
-    https://lnkd.in/ekiPauZ
+    https://www.proyectohorus.com.ar/descargas/windows/portable.zip
 
 - Paso 2: Entra en el terminal (Solo usuarios Linux)
 
