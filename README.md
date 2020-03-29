@@ -36,8 +36,6 @@
         
 - Paso 5: Instala Mono
 
-    En linux ejecutando:
-    
       En Linux Debian o Ubuntu:
       
         sudo apt-get install mono-complete
@@ -54,11 +52,11 @@
 
 - Paso 6: Ejecuta la interfaz de Horus
     
-    En linux ejecutando:
-      sudo mono Proyecto\ Horus.exe
+        En linux ejecutando:
+            sudo mono Proyecto\ Horus.exe
 
-    En MacOS:
-      Haciendo doble click sobre "Proyecto Horus.exe"
+        En MacOS:
+            Haciendo doble click sobre "Proyecto Horus.exe"
 
 Es todo, simple y rápido!
 
