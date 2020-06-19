@@ -1,11 +1,11 @@
 # Pasos a seguir para usar el administrador de Proyecto Horus en Linux o MacOS
 
 - Paso 1: Descargar el software portable de:
-    https://www.proyectohorus.com.ar/descargas/windows/portable.zip
+    http://www.proyectohorus.com.ar/descargas/windows/Windows_LinuxMono.zip
     
     Podes hacerlo tanto haciendo click en el link o desde terminal (Paso 2) usando wget:
     
-        sudo wget https://www.proyectohorus.com.ar/descargas/windows/portable.zip
+        sudo wget http://www.proyectohorus.com.ar/descargas/windows/Windows_LinuxMono.zip
 
 - Paso 2: Entra en el terminal (Solo usuarios Linux)
 
