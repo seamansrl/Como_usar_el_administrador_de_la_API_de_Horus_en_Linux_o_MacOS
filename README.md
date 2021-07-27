@@ -62,3 +62,12 @@
 Es todo, simple y rápido!
 
 Nota: La función de prueba en vivo puede no funcionar en algunas versiones de MacOS o Linux
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
